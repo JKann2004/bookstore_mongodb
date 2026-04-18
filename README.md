@@ -8,4 +8,4 @@ DELETE request as ADMIN
 <img width="1727" height="960" alt="Screenshot 2026-04-18 121903" src="https://github.com/user-attachments/assets/257a36a1-26b3-402f-8b1c-e75dc4113141" />
 
 DELETE request as USER
-<img width="1736" height="964" alt="Screenshot 2026-04-18 122048" src="https://github.com/user-attachments/assets/c1649360-20e2-4bbb-9010-4dd2b90706fe" />
+<img width="1277" height="957" alt="Screenshot 2026-04-18 124835" src="https://github.com/user-attachments/assets/501217c3-2331-4a42-b070-8a143d68e981" />
